@@ -1,7 +1,7 @@
 # hello-world
 <p>
 Testing out my first repository.
-<br>
+<p>
 Day two and just starting to get an intensive feel for github.
 <br>
 After I write this I’m going to Commit Changes!
